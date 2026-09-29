@@ -12,3 +12,4 @@ b = float(input("Введите второе число: "))
 result = a * b
 print(f"Результат умножения: {result}")
 ```
+![котик](https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Tiergarten_Worms_Rotfuchs_2011.JPG)
